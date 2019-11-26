@@ -1,8 +1,8 @@
-/////////// LOGIN || CREEAT ///////////
-//                                  //
-//             A-H-M-A-D           //
-//                                //
-///////////////////////////////////
+    //// LOGIN || CREEAT /////
+   //                      //
+  //       A-H-M-A-D      //
+ //                      //
+//////////////////////////
 #include <iostream.h>
 #include <string>
 using namespace std;
